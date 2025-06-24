@@ -9,7 +9,12 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/vector-icons": "^14.1.0",
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@react-navigation/native": "^7.1.11",
+    "@react-navigation/stack": "^7.3.4",
     "expo": "~53.0.11",
+    "expo-speech": "^13.1.7",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
     "react-native": "0.79.3"
